@@ -1,0 +1,16 @@
+[
+  {"id": "A01", "dept": "CRM Ops", "flags": [], "dims": {"awareness": 75, "attitude": 80, "skills": 60, "prompting": 55, "role_fit": 70, "privacy": 80, "support": 40, "confidence": 60, "applying": 45, "learning": 60}},
+  {"id": "A02", "dept": "CRM Ops", "flags": ["no_approved_tool"], "dims": {"awareness": 70, "attitude": 75, "skills": 50, "prompting": 45, "role_fit": 65, "privacy": 75, "support": 25, "confidence": 55, "applying": 35, "learning": 55}},
+  {"id": "A03", "dept": "CRM Ops", "flags": [], "dims": {"awareness": 80, "attitude": 85, "skills": 65, "prompting": 60, "role_fit": 75, "privacy": 85, "support": 45, "confidence": 65, "applying": 50, "learning": 70}},
+  {"id": "A04", "dept": "CRM Ops", "flags": ["no_approved_tool"], "dims": {"awareness": 65, "attitude": 70, "skills": 45, "prompting": 40, "role_fit": 60, "privacy": 70, "support": 20, "confidence": 50, "applying": 30, "learning": 50}},
+  {"id": "A05", "dept": "CRM Ops", "flags": [], "dims": {"awareness": 75, "attitude": 80, "skills": 55, "prompting": 50, "role_fit": 70, "privacy": 80, "support": 35, "confidence": 60, "applying": 40, "learning": 60}},
+  {"id": "A06", "dept": "CRM Ops", "flags": [], "dims": {"awareness": 70, "attitude": 75, "skills": 60, "prompting": 55, "role_fit": 65, "privacy": 75, "support": 40, "confidence": 55, "applying": 45, "learning": 55}},
+  {"id": "B01", "dept": "Market Marketing", "flags": ["data_handling_risk"], "dims": {"awareness": 85, "attitude": 90, "skills": 75, "prompting": 60, "role_fit": 80, "privacy": 35, "support": 70, "confidence": 50, "applying": 75, "learning": 75}},
+  {"id": "B02", "dept": "Market Marketing", "flags": [], "dims": {"awareness": 80, "attitude": 85, "skills": 70, "prompting": 55, "role_fit": 75, "privacy": 55, "support": 65, "confidence": 55, "applying": 70, "learning": 70}},
+  {"id": "B03", "dept": "Market Marketing", "flags": ["data_handling_risk"], "dims": {"awareness": 85, "attitude": 90, "skills": 80, "prompting": 65, "role_fit": 80, "privacy": 30, "support": 70, "confidence": 45, "applying": 80, "learning": 80}},
+  {"id": "B04", "dept": "Market Marketing", "flags": [], "dims": {"awareness": 75, "attitude": 80, "skills": 65, "prompting": 50, "role_fit": 70, "privacy": 60, "support": 60, "confidence": 60, "applying": 65, "learning": 65}},
+  {"id": "B05", "dept": "Market Marketing", "flags": ["data_handling_risk"], "dims": {"awareness": 80, "attitude": 85, "skills": 75, "prompting": 60, "role_fit": 75, "privacy": 40, "support": 65, "confidence": 50, "applying": 75, "learning": 70}},
+  {"id": "C01", "dept": "Analytics", "flags": [], "dims": {"awareness": 90, "attitude": 70, "skills": 85, "prompting": 80, "role_fit": 60, "privacy": 90, "support": 60, "confidence": 80, "applying": 70, "learning": 85}},
+  {"id": "C02", "dept": "Analytics", "flags": [], "dims": {"awareness": 85, "attitude": 65, "skills": 80, "prompting": 75, "role_fit": 55, "privacy": 85, "support": 55, "confidence": 75, "applying": 65, "learning": 80}},
+  {"id": "C03", "dept": "Analytics", "flags": [], "dims": {"awareness": 90, "attitude": 60, "skills": 85, "prompting": 85, "role_fit": 50, "privacy": 90, "support": 60, "confidence": 80, "applying": 60, "learning": 85}}
+]
